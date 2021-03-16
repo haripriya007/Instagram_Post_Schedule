@@ -25,7 +25,7 @@ To get geckodriver # https://github.com/mozilla/geckodriver/releases
 
 https://www.instagram.com/
 
-Need Credentials User name & Password of Instagram
+Need for Credentials (User name & Password)Instagram Login
 
 # Schedule Post
 You can Schedule the post time format will be given in program
