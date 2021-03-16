@@ -18,4 +18,14 @@ Proxy for using W3C WebDriver(# https://developer.mozilla.org/en-US/docs/Web/Web
 
 This program provides the HTTP API described by the WebDriver protocol to communicate with Gecko browsers, such as Firefox. It translates calls into the Marionette remote protocol by acting as a proxy between the local- and remote ends.
 
+To get geckodriver # https://github.com/mozilla/geckodriver/releases
 
+
+# URL of Instagram : 
+
+https://www.instagram.com/
+
+Need Credentials User name & Password of Instagram
+
+# Schedule Post
+You can Schedule the post time format will be given in program
